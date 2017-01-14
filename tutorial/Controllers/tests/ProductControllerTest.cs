@@ -21,7 +21,7 @@ namespace tutorial.Tests.Controllers
             
             // Assert
             Assert.IsNotNull(result);
-            Assert.AreEqual(77, result.Count());
+            Assert.AreEqual(79, result.Count());
         }
 
         
