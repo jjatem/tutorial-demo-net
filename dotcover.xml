@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalyseParams>
-  <TargetExecutable>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe</TargetExecutable>
+  <TargetExecutable>E:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe</TargetExecutable>
   <TargetArguments>/testcontainer:tutorial\bin\tutorial.dll</TargetArguments>
   <TargetWorkingDir>.</TargetWorkingDir>
   <Output>output/coverage.html</Output>

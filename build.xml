@@ -5,7 +5,7 @@
 
   <property name="output.dir" value=".\output" />
 
-  <property name="mstest.exe" value="C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" />
+  <property name="mstest.exe" value="E:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" />
 
   <property name="dotcover.exe" value="C:\Users\jjate\AppData\Local\JetBrains\Installations\dotCover07\dotcover.exe" />
   
